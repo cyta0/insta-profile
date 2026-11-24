@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
